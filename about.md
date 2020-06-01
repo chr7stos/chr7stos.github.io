@@ -2,7 +2,7 @@
 
 ## Me in 10 seconds
 
-I have been a researcher in **biophysics** [1](https://www.academia.edu/1107753/Liquid-Liquid_Phase_Separation_in_Protein_Solutions_Controlled_by_Multivalent_Salts_and_Temperature)
+I have been a researcher in **biophysics**, I investigated [phase separation in proteins](https://www.academia.edu/1107753/Liquid-Liquid_Phase_Separation_in_Protein_Solutions_Controlled_by_Multivalent_Salts_and_Temperature) 
 
 Then I moved to neuroscience for some time, I studied signal correlations in the brains of rodents for potential treatment of Parkinson's disease.
 
