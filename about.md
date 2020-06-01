@@ -1,4 +1,7 @@
 # About
 
-This is the *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+## Me in 10 seconds
+
+I did some research in biophysics and solid state physics. Then organic solar cells.   
+Then data engineering, then algorithm developer.
 
