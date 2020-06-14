@@ -1,4 +1,9 @@
-# About
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 
 ## Me in 10 seconds
 
@@ -14,5 +19,6 @@ Some things I have built are:
 - a module (again in *python*) extracting data from a production pipeline using json files
 - a model predicting subway traffic based on mobile signaling data (it involved a hidden markov model)
 
-
-
+## Some public talks I gave:
+[Mapping with Folium](https://www.meetup.com/Python-Users-Berlin-PUB/events/xmdjfmywpbmb/) (Python Users Berlin)
+[Introduction to (Py)Spark](https://www.meetup.com/fr-FR/PyData-Cyprus/events/259617209/) (PyData Cyprus)
