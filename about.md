@@ -20,9 +20,9 @@ Some things I have built are:
 - a model predicting subway traffic based on mobile signaling data
 
 I really enjoy building and leading teams:
-- I have built and lead a team of 4 data scientists in building and improving algorithms using spatial and mobile signaling data.    
-- I have lead a team of 5 software engineers/data scientists in building and improving fraud detections systems.
-- I have built and lead a team of 12 software engineers/data scientists in building low-latency APIs.
+- I have built and lead a team of 4 data scientists at Motionlogic - Deutsche Telekom. We designed and improved algorithms for traffic analysis using spatial and mobile signaling data.    
+- I have lead a team of 5 software engineers/data scientists at Klarna in building and improving fraud detections systems.
+- I have built and lead a team of 12 software engineers/data scientists at Klarna in building low-latency APIs 
 
 ## Some public talks I gave:
 [Mapping with Folium](https://www.meetup.com/Python-Users-Berlin-PUB/events/xmdjfmywpbmb/) (Python Users Berlin)
