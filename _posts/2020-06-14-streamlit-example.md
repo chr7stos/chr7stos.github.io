@@ -50,7 +50,7 @@ chart = alt.Chart(df).mark_line().encode(
 
 st.altair_chart(chart)
 ```
-9. Then run `streamlit run streamlit-example.py` and you will be able to view the dashboard in your browser.
+Finally, run `streamlit run streamlit-example.py` and you will be able to view the dashboard in your browser.
 
 ### These are the steps to deploy the app in aws
 `Coming soon`
