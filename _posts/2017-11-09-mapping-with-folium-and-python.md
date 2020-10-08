@@ -15,7 +15,7 @@ Here is another jupyter notebook with some folium investigations [link](https://
 # Imports
 
 import folium
-import geopyç
+import geopy
 from geopy.geocoders import Nominatim
 from geopy.distance import great_circle, vincenty
 ```
