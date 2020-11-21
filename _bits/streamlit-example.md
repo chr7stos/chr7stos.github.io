@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Create a dashboard with streamlit and deploy it in aws
 permalink: /bits/streamlit-example.html
 ---
