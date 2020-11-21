@@ -1,7 +1,7 @@
 
 layout: page
 title: Resume
-permalink: /resume/
+permalink: /resume
 
 ## Me in a sketch
 ![drawing](images/cv-timeline-sketch.jpg)
