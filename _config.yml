@@ -45,7 +45,7 @@ version: 3.0.0
 # Pages list
 pages_list:       
   Home: '/'
-  About: '/about'
   Resume: '/resume'
+  About: '/about'
   Archive: '/archive'
 #  Feed: '/atom.xml'
