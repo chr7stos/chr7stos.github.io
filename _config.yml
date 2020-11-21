@@ -43,5 +43,6 @@ version: 3.0.0
 # Pages list
 pages_list:       
   About: '/about'
+  Bits: '/bits'
   Archive: '/archive'
 #  Feed: '/atom.xml'
