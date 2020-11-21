@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Create a dashboard with streamlit and deploy it in aws
+permalink: /bits/streamlit.html
 ---
 
 ## What is streamlit?
