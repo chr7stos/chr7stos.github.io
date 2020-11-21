@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
+## Me in a sketch
+<img src="assets/cv-timeline-sketch.jpg"/>
 
-## Me in 10 seconds
-
+## Me in text
 I have done research in **biophysics** - investigating the proton pumping mechanism in bacteriorhodopsin [phase separation in proteins](https://www.academia.edu/1107753/Liquid-Liquid_Phase_Separation_in_Protein_Solutions_Controlled_by_Multivalent_Salts_and_Temperature).
 
 Then I moved to neuroscience for some time where I studied signal correlations in the brains of rodents for potential treatment of Parkinson's disease.
