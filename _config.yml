@@ -47,5 +47,5 @@ pages_list:
   Home: '/'
   Resume: '/resume'
   About: '/about'
-  Archive: '/archive'
+#  Archive: '/archive'
 #  Feed: '/atom.xml'
