@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 ## Me in a sketch
-<img src="cv-timeline-sketch.jpg" width="400"/>
+![drawing](cv-timeline-sketch.jpg)
+
 
 ## Me in text
 I have done research in **biophysics** - investigating the proton pumping mechanism in bacteriorhodopsin [phase separation in proteins](https://www.academia.edu/1107753/Liquid-Liquid_Phase_Separation_in_Protein_Solutions_Controlled_by_Multivalent_Salts_and_Temperature).
