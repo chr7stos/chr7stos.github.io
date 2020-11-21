@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create a dashboard with streamlit and deploy it in aws
-permalink: bits/streamlit-example
+permalink: /bits/streamlit-example
 ---
 
 ## What is streamlit?
