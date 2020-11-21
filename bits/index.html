@@ -1,9 +1,0 @@
----
-layout: default
-title: Bits
----
-
-{% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'folder1'"%}
-{% for item in folder1 %}
-{{item.title}}
-{% endfor %}

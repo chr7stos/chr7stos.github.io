@@ -6,7 +6,7 @@ paginate: 1
 baseurl: ""
 permalink: pretty
 
-include: ['_pages', 'bits']
+include: ['_pages']
 
 # Gems
 plugins:
