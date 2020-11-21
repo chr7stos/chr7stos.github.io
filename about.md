@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Me in a sketch
-![drawing](cv-timeline-sketch.jpg)
+![drawing](images/cv-timeline-sketch.jpg)
 
 
 ## Me in text
