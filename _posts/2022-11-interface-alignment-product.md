@@ -1,3 +1,7 @@
+---
+layout: post
+title: Interface alignment in product management
+---
 
 Once upon a time, I pursued a PhD in Physics. One of the main objectives of my thesis back then was to understand what happens when depositing molecules on a substrate material. These materials have a lot of quantized energy levels and some of them are particularly relevant to how charges travel between these materials.
 
