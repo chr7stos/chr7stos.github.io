@@ -18,4 +18,4 @@ Here is a list of things I would like to do:
 10. [x] Meet a Nobel-Laureate
 11. [ ] Inspire people to do good things
 12. [ ] Inspire people to read and learn 
-13. [ ] Learn to play a music instrument (piano)
+13. [x] Learn to play a music instrument (piano)
