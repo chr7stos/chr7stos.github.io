@@ -19,3 +19,5 @@ Here is a list of things I would like to do:
 11. [ ] Inspire people to do good things
 12. [ ] Inspire people to read and learn 
 13. [x] Learn to play a music instrument (piano)
+14. [x] Eat sushi at Tokyo's port
+15. [x] Visit Kyoto
