@@ -14,4 +14,8 @@ I am a fervent advocate for the uptake of technologies such as Artificial Intell
 
 I am also committed to fostering technology communities. I actively spearhead the PyData Cyprus meetup, driving discussions, innovation, and collaboration among technology enthusiasts and professionals.  Previously, I co-organized various meetups in Berlin, fostering a space for intellectual interaction among like-minded individuals interested in data analytics, open source software, artificial intelligence, product management, and scientific discourse.
 
-[Here](https://scholar.google.com/citations?user=i7TBNSMAAAAJ&hl=en) you can find more about my research.
+---
+
+Publications: [Academic research](https://scholar.google.com/citations?user=i7TBNSMAAAAJ&hl=en)
+
+PhD thesis: [Electronic and structural properties at the interfaces between graphene and molecular acceptors/donors](https://edoc.hu-berlin.de/handle/18452/17970)
