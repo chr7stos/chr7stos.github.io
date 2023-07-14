@@ -43,10 +43,10 @@ author:
 version: 3.0.0
 
 # Pages list
-pages_list:       
-  Blog: '/posts'
+pages_list:     
   Resume: '/'
-  About: '/about'
   Outreach: '/outreach'
+  Blog: '/posts'
+  About: '/about'
 #  Archive: '/archive'
 #  Feed: '/atom.xml'
