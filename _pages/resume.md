@@ -10,7 +10,7 @@ I hold a Ph.D. in Physics from Humboldt University in Berlin, where I delved dee
 
 My carreer spans a diverse array of industries, including healthcare, mobility/traffic analysis, fintech, and music and entertainment.   Currently I am the Head of Data and Product at Epikast, a healthcare company redefining how biopharma companies engage with patients and healthcare providers.       
 
-I am a fervent advocate for the uptake of technologies such as Artificial Intelligence and Accelerated Computing in business operations, as pivotal tools to optimize workflow efficiencies and drive transformative change, with a robust portfolio of digitally transformative projects, garnered from my tenure as Industry Programme Manager at The Cyprus Institute and independent Technology Consultant.      
+I am a fervent advocate for the uptake of technologies such as Artificial Intelligence and Accelerated Computing in business operations, as pivotal tools to optimize workflow efficiencies and drive transformative change. I have a robust portfolio of digitally transformative projects, garnered from my tenure as Industry Programme Manager at The Cyprus Institute and as independent Technology Consultant.      
 
 I am also committed to fostering technology communities. I actively spearhead the PyData Cyprus meetup, driving discussions, innovation, and collaboration among technology enthusiasts and professionals.  Previously, I co-organized various meetups in Berlin, fostering a space for intellectual interaction among like-minded individuals interested in data analytics, open source software, artificial intelligence, product management, and scientific discourse.
 
