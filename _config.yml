@@ -44,7 +44,7 @@ version: 3.0.0
 
 # Pages list
 pages_list:       
-  Home: '/'
+  Blog: '/'
   Resume: '/resume'
   About: '/about'
   Outreach: '/outreach'
