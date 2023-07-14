@@ -4,30 +4,14 @@ title: My resume
 permalink: /resume
 ---
 
+I have accumulated approximately a decade's worth of experience working as a data professional. During these 10 years, I have refined my expertise in artificial intelligence, data analytics, product management, and innovation management.
 
-## Me in a sketch
-![drawing](images/cv-timeline-sketch.jpg)
+I hold a Ph.D. in Physics from Humboldt University in Berlin, where I delved deep into the realm of nanotechnology for my research. I also have an M.Sci and BA in Natural Science from the University of Cambridge, UK.
 
+My carreer spans a diverse array of industries, including healthcare, mobility/traffic analysis, fintech, and music and entertainment.   Currently I am the Head of Data and Product at Epikast, a healthcare company redefining how biopharma companies engage with patients and healthcare providers.       
 
-## Me in text
-I have done research in **biophysics** - investigating the proton pumping mechanism in bacteriorhodopsin [phase separation in proteins](https://www.academia.edu/1107753/Liquid-Liquid_Phase_Separation_in_Protein_Solutions_Controlled_by_Multivalent_Salts_and_Temperature).
+I am a fervent advocate for the uptake of technologies such as Artificial Intelligence and Accelerated Computing in business operations, as pivotal tools to optimize workflow efficiencies and drive transformative change, with a robust portfolio of digitally transformative projects, garnered from my tenure as Industry Programme Manager at The Cyprus Institute and independent Technology Consultant.      
 
-Then I moved to neuroscience for some time where I studied signal correlations in the brains of rodents for potential treatment of Parkinson's disease.
+I am also committed to fostering technology communities. I actively spearhead the PyData Cyprus meetup, driving discussions, innovation, and collaboration among technology enthusiasts and professionals.  Previously, I co-organized various meetups in Berlin, fostering a space for intellectual interaction among like-minded individuals interested in data analytics, open source software, artificial intelligence, product management, and scientific discourse.
 
-I have been a researcher in solid state physics, focusing on graphene as a new nanomaterial and [organic solar cells](https://www.sciencedirect.com/science/article/abs/pii/S0040609019302780). My research involved a lot of fabrication of nanolayers using Ultrahigh vacuum techniques and spectroscopic analysis. [Here](https://scholar.google.com/citations?user=i7TBNSMAAAAJ&hl=en) you can find more about my research.
-
-I have then moved outside academia to data engineering and data science roles.    
-Some things I have built are:
-- a tool written in *python* orchestrating the production data pipeline
-- a module (again in *python*) extracting data from a production pipeline using json files
-- a model predicting subway traffic based on mobile signaling data (yet again in *python*)
-
-I really enjoy building and leading teams:
-- I have built and led a team of 4 data scientists at Motionlogic - Deutsche Telekom. We designed and improved algorithms for traffic analysis using spatial and mobile signaling data.    
-- I have led a team of 5 software engineers/data scientists at Klarna in building and improving fraud detections systems.
-- I have built and led a team of 12 software engineers/data scientists at Klarna in building low-latency APIs 
-
-## Some public talks I gave:
-[Mapping with Folium](https://www.meetup.com/Python-Users-Berlin-PUB/events/xmdjfmywpbmb/) (Python Users Berlin)
-
-[Introduction to (Py)Spark](https://www.meetup.com/fr-FR/PyData-Cyprus/events/259617209/) (PyData Cyprus)
+[Here](https://scholar.google.com/citations?user=i7TBNSMAAAAJ&hl=en) you can find more about my research.
