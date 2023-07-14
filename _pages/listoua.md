@@ -6,7 +6,7 @@ permalink: /listoua
 
 Here is a list of things I would like to do:
 
-1. [x] 1. Visit Perito Moreno Glacier in Argentina
+1. [x] Visit Perito Moreno Glacier in Argentina
 2. [x] Road trip in U.S.
 3. [x] Watch the North Lights
 4. [x] Safari in Africa
