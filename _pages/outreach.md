@@ -13,6 +13,9 @@ __June 2023__ - `trainer`
 __March 2023__ - `moderator`    
 [Innovation and Trends Track at Product Camp Cyprus](https://cyprus.productcamp.eu/)
 
+__October 2022__ - `speaker`   
+[How can AI change society?](https://speakerdeck.com/christosdoulou/how-can-ai-change-society)
+
 
 __June 2022__ - `trainer`   
 [TensorFlow/Keras for Text Processing](https://www.youtube.com/watch?v=OmIoiY1tJ2E)
