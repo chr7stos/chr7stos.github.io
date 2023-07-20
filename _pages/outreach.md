@@ -7,6 +7,9 @@ permalink: /outreach
 
 ## Talks and Workshops
 
+__July 2023__ - `speaker`   
+[AI Regulation / UN Security Council on risks of AI]()
+
 __June 2023__ - `trainer`     
 [GenAI, LLMs and AI Assistants at ENGAGE summer school for PhD students]()
 
