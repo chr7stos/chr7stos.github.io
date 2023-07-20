@@ -36,11 +36,11 @@ __January 2021__ - `speaker`
 _Announcement of Industry Program / the Cyprus Institute_      
 
 __April 2019__ -  `speaker`        
-[Introduction to (Py)Spark](https://www.meetup.com/fr-FR/PyData-Cyprus/events/259617209/)
+[Introduction to (Py)Spark](https://www.meetup.com/fr-FR/PyData-Cyprus/events/259617209/)   
 _PyData Cyprus_   
 
 __October 2017__ - `speaker`         
-[Mapping with Folium](https://www.meetup.com/Python-Users-Berlin-PUB/events/xmdjfmywpbmb/)
+[Mapping with Folium](https://www.meetup.com/Python-Users-Berlin-PUB/events/xmdjfmywpbmb/)   
 _Python Users Berlin_   
 
 
