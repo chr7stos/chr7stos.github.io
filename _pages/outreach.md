@@ -8,7 +8,7 @@ permalink: /outreach
 ## Talks and Workshops
 
 __July 2023__ - `speaker`   
-[AI Regulation / UN Security Council on risks of AI ]()   
+[AI Regulation / UN Security Council on risks of AI ](https://youtu.be/8kS8Hu12PYM?t=2647)   
 _Radio Proto (Cypriot radio station)_   
 
 __June 2023__ - `trainer`     
