@@ -24,7 +24,7 @@ __20 July 2023__ - `speaker`
 _Radio Proto (Cypriot radio station)_   
 
 __29 June 2023__ - `trainer`     
-[GenAI, LLMs and AI Assistants]()   
+[GenAI, LLMs and AI Assistants](https://speakerdeck.com/christosdoulou/presi)   
 _ENGAGE summer school for PhD students_
 
 __14 March 2023__ - `moderator`    
