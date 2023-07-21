@@ -31,7 +31,7 @@ __14 March 2023__ - `moderator`
 [Innovation and Trends Track at Product Camp Cyprus](https://cyprus.productcamp.eu/)   
 _ProductCamp Cyprus_   
 
-__ 20 October 2022__ - `speaker`   
+__20 October 2022__ - `speaker`   
 [How can AI change society?](https://speakerdeck.com/christosdoulou/how-can-ai-change-society)   
 _Reflect tech festival_
 
