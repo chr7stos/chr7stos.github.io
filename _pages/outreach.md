@@ -7,19 +7,31 @@ permalink: /outreach
 
 ## Talks and Workshops
 
-__July 2023__ - `speaker`   
+### Upcoming
+
+:wavy_dash: __27 July 2023__ - `speaker`    
+[Risks of AI]()   
+_Sigma TV station_
+
+:wavy_dash: __27 September 2023__ - `speaker`        
+[Transforming Legal Practice and Business in the Age of AI and Automation](https://blcyprus.com/program)    
+_Best Legal Conference Cyprus_   
+
+### Past
+
+__20 July 2023__ - `speaker`   
 [AI Regulation / UN Security Council on risks of AI ](https://youtu.be/8kS8Hu12PYM?t=2647)   
 _Radio Proto (Cypriot radio station)_   
 
-__June 2023__ - `trainer`     
+__29 June 2023__ - `trainer`     
 [GenAI, LLMs and AI Assistants]()   
 _ENGAGE summer school for PhD students_
 
-__March 2023__ - `moderator`    
+__14 March 2023__ - `moderator`    
 [Innovation and Trends Track at Product Camp Cyprus](https://cyprus.productcamp.eu/)   
 _ProductCamp Cyprus_   
 
-__October 2022__ - `speaker`   
+__ 20 October 2022__ - `speaker`   
 [How can AI change society?](https://speakerdeck.com/christosdoulou/how-can-ai-change-society)   
 _Reflect tech festival_
 
