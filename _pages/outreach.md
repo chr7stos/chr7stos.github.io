@@ -9,11 +9,11 @@ permalink: /outreach
 
 ### Upcoming
 
-:wavy_dash: __27 July 2023__ - `speaker`    
+__27 July 2023__ - `speaker`    
 [Risks of AI]()   
 _Sigma TV station_
 
-:wavy_dash: __27 September 2023__ - `speaker`        
+__27 September 2023__ - `speaker`        
 [Transforming Legal Practice and Business in the Age of AI and Automation](https://blcyprus.com/program)    
 _Best Legal Conference Cyprus_   
 
