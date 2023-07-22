@@ -8,7 +8,11 @@ I have accumulated approximately a decade's worth of experience working as a dat
 
 I hold a Ph.D. in Physics from Humboldt University in Berlin, where I delved deep into the realm of nanotechnology for my research. I also have an M.Sci and BA in Natural Science from the University of Cambridge, UK.
 
-My carreer spans a diverse array of industries, including healthcare, mobility/traffic analysis, fintech, and music and entertainment.   Currently I am the Head of Data and Product at Epikast, a healthcare company redefining how biopharma companies engage with patients and healthcare providers.       
+My carreer spans a diverse array of industries, including healthcare, mobility/traffic analysis, fintech, and music and entertainment. 
+
+I held the role of Accountable Lead at Klarna, during its status as Europe's largest Fintech. I was involved in it's strategic expansion in the United States, Australia and other European markets.
+
+Currently I am the Head of Data and Product at Epikast, a healthcare company redefining how biopharma companies engage with patients and healthcare providers.       
 
 I am a fervent advocate for the uptake of technologies such as Artificial Intelligence and Accelerated Computing in business operations, as pivotal tools to optimize workflow efficiencies and drive transformative change. I have a robust portfolio of digitally transformative projects, garnered from my tenure as Industry Programme Manager at The Cyprus Institute and as independent Technology Consultant.      
 
