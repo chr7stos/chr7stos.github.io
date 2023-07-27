@@ -9,15 +9,19 @@ permalink: /outreach
 
 ### Upcoming
 
-__27 July 2023__ - `speaker`    
-[Risks of AI]()   
-_Sigma TV station_
+__13 September 2023__ - `speaker`   
+[Building products powered by Large Language Models]()   
+_Industry training_   
 
 __27 September 2023__ - `speaker`        
 [Transforming Legal Practice and Business in the Age of AI and Automation](https://blcyprus.com/program)    
 _Best Legal Conference Cyprus_   
 
 ### Past
+
+__27 July 2023__ - `speaker`    
+[Risks of AI]()   
+_Sigma TV station_
 
 __20 July 2023__ - `speaker`   
 [AI Regulation / UN Security Council on risks of AI ](https://youtu.be/8kS8Hu12PYM?t=2647)   
