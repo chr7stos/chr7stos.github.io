@@ -20,7 +20,7 @@ _Best Legal Conference Cyprus_
 ### Past
 
 __27 July 2023__ - `speaker`    
-[Practical applications and risks of AI](https://www.youtube.com/watch?v=-WA7_UqOQG8)   
+[Practical applications and risks of AI](https://www.youtube.com/watch?v=-d_zpzmRgeo)  
 _Sigma TV station_
 
 __20 July 2023__ - `speaker`   
