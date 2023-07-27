@@ -31,3 +31,5 @@ Here is a list of things I would like to do:
 24. [x] Live talk in TV
 25. [x] Swim in a river
 26. [x] Go to Berghain
+27. [x] Cook curry with Thai locals in Thailand
+28. [x] Eat asado in Buenos Aires
