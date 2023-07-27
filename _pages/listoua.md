@@ -29,3 +29,5 @@ Here is a list of things I would like to do:
 22. [x] Roadtrip in US
 23. [x] Live talk in radio
 24. [x] Live talk in TV
+25. [x] Swim in a river
+26. [x] Go to Berghain
