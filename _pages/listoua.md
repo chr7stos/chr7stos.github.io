@@ -25,3 +25,7 @@ Here is a list of things I would like to do:
 18. [ ] Master open fire grilling
 19. [x] Eat asado with Argentinians
 20. [x] Cook for more than 100 people
+21. [x] See Grand Canyon
+22. [x] Roadtrip in US
+23. [x] Live talk in radio
+24. [x] Live talk in TV
