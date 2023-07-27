@@ -59,6 +59,7 @@ __October 2017__ - `speaker`
 [Mapping with Folium](https://www.meetup.com/Python-Users-Berlin-PUB/events/xmdjfmywpbmb/)   
 _Python Users Berlin_   
 
-## PyData Cyprus - `organiser`   
+
+## PyData Cyprus - `organiser`    
 [Talks on AI, Data Science, Software Engineering and Product Development](https://www.youtube.com/playlist?list=PLGVZCDnMOq0pbyy5F3DOQbZHEFOrEqeQm)
 
