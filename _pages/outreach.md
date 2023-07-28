@@ -41,7 +41,7 @@ _Reflect tech festival_
 
 __24 September 2022__ - `panelist`   
 [Can Cyprus become a global AI and Data scienc hub?](https://www.youtube.com/live/OCa9Rmr8zAo?feature=share)   
-__EcoX Cyprus meetup__   
+_EcoX Cyprus meetup_   
 
 
 __June 2022__ - `trainer`   
