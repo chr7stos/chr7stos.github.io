@@ -39,6 +39,10 @@ __20 October 2022__ - `speaker`
 [How can AI change society?](https://speakerdeck.com/christosdoulou/how-can-ai-change-society)   
 _Reflect tech festival_
 
+__24 September 2022__ - `panelist`   
+[Can Cyprus become a global AI and Data scienc hub?](https://www.youtube.com/live/OCa9Rmr8zAo?feature=share)   
+
+
 __June 2022__ - `trainer`   
 [TensorFlow/Keras for Text Processing](https://www.youtube.com/watch?v=OmIoiY1tJ2E)     
 _Industry training / the Cyprus Institute_   
