@@ -9,12 +9,11 @@ permalink: /outreach
 
 ### Upcoming
 
+### Past
 
 __27 September 2023__ - `speaker`        
 [Transforming Legal Practice and Business in the Age of AI and Automation](https://blcyprus.com/program)    
 _Best Legal Conference Cyprus_   
-
-### Past
 
 __13 September 2023__ - `speaker`   
 [Building products powered by Large Language Models]()   
