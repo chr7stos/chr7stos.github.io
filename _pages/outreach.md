@@ -9,7 +9,15 @@ permalink: /outreach
 
 ### Upcoming
 
+__13 November 2023__ - `speaker`   
+State of technologies like chatGPT(4)   
+_Sigma TV station_    
+
 ### Past
+
+__09 November 2023__ - `speaker`    
+Use case of machine learning in industry    
+_The Cyprus Institute_    
 
 __27 September 2023__ - `speaker`        
 [Transforming Legal Practice and Business in the Age of AI and Automation](https://blcyprus.com/program)    
