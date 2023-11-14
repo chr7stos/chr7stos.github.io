@@ -9,11 +9,15 @@ permalink: /outreach
 
 ### Upcoming
 
-__13 November 2023__ - `speaker`   
-State of technologies like chatGPT(4)   
-_Sigma TV station_    
+
 
 ### Past
+
+
+__13 November 2023__ - `speaker`   
+State of technologies like chatGPT(4)   
+_Sigma TV station_  
+
 
 __09 November 2023__ - `speaker`    
 Use cases of machine learning in industry    
