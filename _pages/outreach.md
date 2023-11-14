@@ -20,7 +20,7 @@ _Sigma TV station_
 
 
 __09 November 2023__ - `speaker`    
-Use cases of machine learning in industry    
+[Use cases of machine learning in industry](https://www.slideshare.net/ChristosChristodoulo3/machine-learning-in-industry-prespdf)         
 _The Cyprus Institute_    
 
 __27 September 2023__ - `speaker`        
