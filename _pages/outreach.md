@@ -15,7 +15,7 @@ permalink: /outreach
 
 
 __13 November 2023__ - `speaker`   
-State of technologies like chatGPT(4)   
+[State of technologies like chatGPT(4)](https://fb.watch/oiWWNQ4HTQ/)      
 _Sigma TV station_  
 
 
