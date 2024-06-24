@@ -32,4 +32,7 @@ Here is a list of things I would like to do:
 25. [x] Swim in a river
 26. [x] Go to Berghain
 27. [x] Cook curry with Thai locals in Thailand
-28. [x] Eat asado in Buenos Aires
+28. [x] Eat asado in Buenos Aires   
+29. [x] Write a book or part of it 
+30. [ ] Design a space and build it
+
