@@ -8,7 +8,7 @@ Here is a list of things I would like to do:
 
 1. [x] Visit Perito Moreno Glacier in Argentina
 2. [x] Road trip in U.S.
-3. [x] Watch the North Lights
+3. [x] Watch the Northern Lights
 4. [x] Safari in Africa
 5. [ ] Learn surfing
 6. [x] Start a company 
@@ -34,5 +34,8 @@ Here is a list of things I would like to do:
 27. [x] Cook curry with Thai locals in Thailand
 28. [x] Eat asado in Buenos Aires   
 29. [x] Write a book or part of it 
-30. [ ] Design a space and build it
+30. [ ] Design a space and build it 
+31. [x] Create a tech community 
+32. [x] Speak at a conference in Kyoto 
+
 
