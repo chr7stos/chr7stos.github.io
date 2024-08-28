@@ -5,9 +5,22 @@ permalink: /outreach
 ---
 
 
+## Writeups
+
+__The Graph Substack__
+
+I regularly write in my substack, thegraph.substack.com 
+
+__Book (2 chapters)__
+
+The inteconnection between AI and social research
+
 ## Talks and Workshops
 
 ### Upcoming
+
+ 
+Book contribution (2 chapters)
 
 
 
