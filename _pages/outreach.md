@@ -11,7 +11,12 @@ __The Graph Substack__
 _I regularly write in my substack, [The Graph](thegraph.substack.com)_
 
 __Book (2 chapters)__
-_Book to be published in 2024, on the inteconnection between AI and social research. My contributions are on prompting techniques and on AI "agents" in quantitative social research_
+[Artificial Intelligence (AI) in Social Research](https://www.cabidigitallibrary.org/doi/book/10.1079/9781800626607.0000)
+
+__Conference paper__   
+[Automated Machine Learning in a Multi-agent Environment](https://link.springer.com/chapter/10.1007/978-3-031-81322-1_4)
+
+
 
 ## Talks and Workshops
 
