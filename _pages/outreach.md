@@ -10,7 +10,7 @@ permalink: /outreach
 __The Graph Substack__
 _I regularly write in my substack, [The Graph](thegraph.substack.com)_
 
-__Book (2 chapters)__
+__Book (2 chapters)__   
 [Artificial Intelligence (AI) in Social Research](https://www.cabidigitallibrary.org/doi/book/10.1079/9781800626607.0000)
 
 __Conference paper__   
